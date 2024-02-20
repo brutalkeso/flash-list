@@ -22,7 +22,7 @@ buildscript {
     }
 
     dependencies {
-        classpath("org.jetbrains.kotlin:kotlin-gradle-plugin:${_kotlinVersion}")
+        classpath("org.jetbrains.kotlin:kotlin-gradle-plugin")
     }
 }
 
