@@ -27,6 +27,7 @@ buildscript {
 }
 
 android {
+    namespace "com.shopify.flash.list"
     compileSdkVersion _compileSdkVersion
     buildToolsVersion _buildToolsVersion
 
